@@ -1,13 +1,13 @@
-## Interface: 100002
+## Interface: 110000
 ## Title: ClassTimer
-## Notes: Timers for Buffs, DOTs, CC effects, etc..
+## Notes: [PATCHED LOCALLY] Timers for Buffs, DOTs, CC effects, etc..
 ## Notes-zhCN: 职业技能计时计
 ## Notes-zhTW: 職業技能計時器
 ## Notes-ruRU: Таймеры для  баффов, DOTs, CC эффектов, и т.д.
 ## Author: Ominous
 ## SavedVariables: ClassTimerDB
-## Version: @project-version@
-## OptionalDeps: Ace3, LibSharedMedia-3.0
+## Version: 11
+## OptionalDeps: Ace3, Expo, LibSharedMedia-3.0
 
 ## X-Credits: Nymbia
 ## X-Category: Combat
@@ -51,4 +51,3 @@ Bars\General.lua
 Bars\Deathknight.lua
 Bars\Monk.lua
 Bars\Demonhunter.lua
-Bars\Evoker.lua
